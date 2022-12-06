@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Stack Yapısı\Stack Yapısı\bin\Debug\Stack Yapısı.exe.config
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Stack Yapısı\Stack Yapısı\bin\Debug\Stack Yapısı.exe
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Stack Yapısı\Stack Yapısı\bin\Debug\Stack Yapısı.pdb
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Stack Yapısı\Stack Yapısı\obj\Debug\Stack Yapısı.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Stack Yapısı\Stack Yapısı\obj\Debug\Stack Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Stack Yapısı\Stack Yapısı\obj\Debug\Stack Yapısı.exe
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Stack Yapısı\Stack Yapısı\obj\Debug\Stack Yapısı.pdb
